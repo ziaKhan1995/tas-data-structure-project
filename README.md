@@ -58,9 +58,13 @@ The TA  waiting  line  will  also  be  implemented  as  a  queue;  again,  the  
 The TAs: 
 The TAs should be stored, alphabetically*, in an array, where each cell of the array represents one TA, whose information is stored in the following class: 
  
- '''diff
+````diff
 class teachingAssistant { 
-string name;     // only use first names for the TAs int startTimes[3]; int endTimes[3]; student studentWithTA; int minute; 
+string name;     // only use first names for the TAs 
+int startTimes[3]; 
+int endTimes[3]; 
+student studentWithTA; 
+int minute; 
 } TA; 
  ````
  
@@ -85,7 +89,7 @@ The following chart will help you keep track of how to organize the students int
 
  
  	 
-## And now the nuts and bolts: 
+# And now the nuts and bolts: 
  
 •	The lab does not open until the first TA arrives.   You can assume that students know the TAs’ schedule and do not arrive to the lab until the lab is open (the TA is present). 
  
@@ -123,7 +127,7 @@ possibility that some of the students in the queue at this point have no laptops
  
 •	You can assume t h a t there  will always be  enough laptops for  the  number  of students; meaning, this system will never experience deadlock.   The number of laptops is equal to or greater than the number of students that will enter  the lab on a given day.
  
-## Input File Specification (input.txt) 
+# Input File Specification (input.txt) 
 You will read in input from a file, "input.txt". The name MUST BE “input.txt”. Have this AUTOMATED. Do not ask the user to enter “input.txt”. You should read in this automatically. (This will expedite the grading process.) 
  
 The input file has a single positive integer, n, on its first line, specifying the number of laptops to be placed  in the machine.    On the next line, there will be n serial numbers, indicating each of the laptops.  These are represented as positive numbers small enough to be stored in an int variable. They should be placed into the stack in the order the numbers appear.   Thus, the last laptop on the stack will be the first one removed by the first student who needs one. 
@@ -141,20 +145,21 @@ Note:  for each of the three days, and for each simulation, the order that the s
 he first piece of information on each of these lines will be a non- negative integer (less than or equal to 480) representing the number of minutes, after noon, the student arrives to get into line. This is followed by  the  first  and  last  name  of  the  student  (all upper or lower-case letters with a length of fewer than 20 characters each). After this will be a single positive integer indicating the number of questions the student needs to have answered. All pieces of information will be separated by a space on each line. 
  
   
-## Output Specification 
-<b>***NOTE***: You should generate your output to a FILE that you will call 
-“out.txt”.</b> 
+# Output Specification 
+***NOTE***: You should generate your output to a FILE that you will call 
+“out.txt”.
 For each of the semester programs (each resulting in a 3 day simulation), print out a header with the following format: 
-<b> 
+
 ********** Program X: 
 ********** 
- </b>
+
 Where X is the ith program of the semester.  Follow this with a blank line. For each day of the three-day simulation, print the following header: Day: where Day represents the day of the simulation (“Monday”, “Tuesday”, or “Wednesday”). 
  
 Follow this with a blank line. 
  
 The following lines will give information about a TA beginning or ending their lab hours, or a student either entering or leaving, picking up or returning a laptop, or starting or finishing their session with a TA. These lines should be printed in the order in which the actions occur.  The formatting for these lines is as follows: 
  
+ ```diff
 TIME: TA_NAME has begun lab hours. 
 TIME: TA_NAME has finished lab hours. 
 TIME: There are no TAs on duty.  Arslan is now closed. 
@@ -165,7 +170,7 @@ TIME: STUDENT_NAME has had one question answered and gotten back in line.
 TIME: STUDENT_NAME has no more questions and will now return the laptop. 
 TIME: STUDENT_NAME has returned laptop SERIAL and went home HAPPY. 
 TIME: STUDENT_NAME has returned laptop SERIAL and went home FRUSTRATED. TIME: STUDENT_NAME never even got a laptop and went home FRUSTRATED. TIME:  STUDENT_NAME has had one question answered, but must now return the laptop and exit the lab. 
- 
+ ```
 where TIME is the time the Student checked in, STUDENT_NAME is the name of the student (first name followed by a space and then followed by the last name), TA_NAME is the name of the TA, and SERIAL is the serial number of a laptop. 
  
 A student  is  “happy” if  all of their questions were answered, and is “frustrated” otherwise. Students only go home happy if they had at least 75% of their questions answered.   Otherwise, they go home frustrated.   So, if a student had 10 questions, but only 7 were answered, they would go home frustrated.  But if that student had 8 questions answered, they would go home happy. 
@@ -175,7 +180,7 @@ The time should be printed out in the following format: (H)H:MM PM
 The first one (or possibly two) digits represent the hour.   The hour must not be printed as 0 if it is between noon and 1:00, so you’ll need to check for this.  This is followed  by a  colon  and then the next two digits represent the minute.   If the minute value is less than 10, you’ll need to add a leading 0, so that it prints as 3:05, not 3:5.   (It probably makes sense to have a function that takes in as input the number of minutes after noon and in turn prints out the corresponding time in this format.) 
  
  
-## Explanation of Output: 
+# Explanation of Output: 
 Most of the output is straightforward.  The following explanation covers the few cases that may not be completely clear 
  
 TIME: STUDENT_NAME is getting help from TA_NAME. 
@@ -191,10 +196,10 @@ TIME: There are no TAs on duty.  Arslan is now closed.
 -	This message should only print AFTER the last TA has finished their hours AND AFTER their respective “TA_NAME has finished lab hours.” message has printed. 
  
   
-## Output Day Summary: 
+# Output Day Summary: 
 Follow each day’s output with one blank line.   Then you will print that day’s lab summary as follows: 
  
-Day’s Lab Summary: 
+# Day’s Lab Summary: 
 The TA Lab was open for H hours M minutes. 
 Y students visited the lab.  Out of those students, only Z left happy. The remaining left frustrated. 
  
@@ -204,55 +209,27 @@ where  “Day’s”  represents  that  day  of  the  simulation  (Monday’s,  
  
 Follow each day’s summary with a TWO blank lines. 
  
-## ***Helpful Suggestions*** 
+# ***Helpful Suggestions*** 
 •	As stated, you can use either array based or linked-list based stacks and queues. 
 •	Considering that the array of student pointers is in chronological order based on the time that they enter the lab, it does make sense to view this array as a queue. How is that helpful?   You are already implementing two queues (laptop and TA line), and as such, you will already be using the various array or linked-list based queue operations. Therefore, we can “peek” at the enter time of the student at the front of the queue.  If it is their time to enter, we can simple perform a dequeue operation.  Of course, you continue to dequeue for all students whose enter time as at this specific minute, as multiple students can enter at the same time. 
 •	The interfaces shown in this PDF contain the minimum number of fields you need. • Feel free to add any members as you feel appropriate. 
  
   
-## Implementation Restrictions 
+# Implementation Restrictions 
 Name the file you create and turn in Semester_Assig-Enrollement#.cpp.   You must use at least two queues and one stack (for the laptops).   You must write functions that operate on these classes  analogous  to  the stack and queue functions shown in class. Look closely at the sample input and output files provided with the assignment and make sure you follow the formatting exactly. 
  
-##Grading Details Your program will be graded upon the following criteria: 
+## Grading Details Your program will be graded upon the following criteria: 
  
 1)	Correctness. 
 2)	Your use of functions. Even if your output is correct, you won't receive full credit if your program doesn't make appropriate use of functions. 
 3)	Use of different Data structures. Since the purpose of this assignment is to teach you to use diffrernt data structures we have studied, you will not receive credit if you don't use them. 
 4)	Your programming style, comments, and use of white space. 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Solution to TA Data Structures and Algorithms Problem
 
 "Semester Assignment_068.cpp" is the file containing the driver program
-
+```diff
 User Defined Classes:
 •	Node
 •	Queue
@@ -260,8 +237,8 @@ User Defined Classes:
 •	Time
 •	DataStrucresStudent
 •	teachingAssistant
-
-Method to read from "input.txt"
+```
+# Method to read from "input.txt"
 •	Global function used to push values onto Laptop Stack
 •	Member functions used to insert values in DataStrucresStudent and teachingAssistant accordingly
 
@@ -271,8 +248,8 @@ Time class made with several operators overloaded to write the main code easily.
 Approach:
 As the small diagram was displayed in Assignment.pdf, the same sequence was followed starting from LDM to Tas themselves.
 
-
-# Input.txt file format
+```diff
+### Input.txt file format
 
 20
 91457419
@@ -407,15 +384,16 @@ Max     0   0 120 240   0 180
 205 Neena Thurman 3
 230 Ruth Aldine 5
 230 Tyrone Johnson 3
+```
 
 
-
-# Output.txt file generated after running the code
+### Output.txt file generated after running the code
 This is the filed created after running the code.
 ************
 Program 1:
 ************
 
+```diff
 Day: Monday
 
 12:00 PM: Charles has begun Lab Hours
@@ -1347,8 +1325,9 @@ Day: Wednesday
 04:10 PM: Ruth Aldine has returned laptop 68428759 and went home FRUSTRATED.
 04:11 PM: Tyrone Johnson has returned laptop 45594438 and went home FRUSTRATED.
 04:12 PM: Suzanne Chan has returned laptop 28698737 and went home HAPPY.
+```
 
-# Wednesday's Lab Summary:
+*Wednesday's Lab Summary*
 The TA Lab was open for 4 hours and 12 minutes. 26 students visited the lab.
 Out of those students, only 17 left happy.
 remaining left frustrated.
