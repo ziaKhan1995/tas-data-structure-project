@@ -1,0 +1,943 @@
+************
+Program 1:
+************
+
+Day: Monday
+
+12:00 PM: Charles has begun Lab Hours
+12:00 PM: Sooraya Qadir has arrived in Arsalan
+12:02 PM: Sooraya Qadir has borrowed Laptop 23662766 and moved to the TA Line
+12:02 PM: Sooraya Qadir is getting help from Charles
+12:07 PM: Sooraya Qadir has had one question answered and gotten back in line.
+12:07 PM: Sooraya Qadir is getting help from Charles
+12:11 PM: Alisa Tager has arrived in Arsalan
+12:12 PM: Sooraya Qadir has had one question answered and gotten back in line.
+12:12 PM: Sooraya Qadir is getting help from Charles
+12:13 PM: Alisa Tager has borrowed Laptop 70571329 and moved to the TA Line
+12:17 PM: Selene Gallio has arrived in Arsalan
+12:17 PM: Sooraya Qadir has had one question answered and gotten back in line.
+12:17 PM: Alisa Tager is getting help from Charles
+12:19 PM: Selene Gallio has borrowed Laptop 46933604 and moved to the TA Line
+12:22 PM: Alisa Tager has had one question answered and gotten back in line.
+12:22 PM: Sooraya Qadir is getting help from Charles
+12:27 PM: Sooraya Qadir has had one question answered and gotten back in line.
+12:27 PM: Selene Gallio is getting help from Charles
+12:32 PM: Selene Gallio has had one question answered and gotten back in line.
+12:32 PM: Alisa Tager is getting help from Charles
+12:37 PM: Alisa Tager has had one question answered and gotten back in line.
+12:37 PM: Sooraya Qadir is getting help from Charles
+12:42 PM: Sooraya Qadir has no more questions and will now return the laptop
+12:42 PM: Selene Gallio is getting help from Charles
+12:44 PM: Sooraya Qadir has returned laptop 23662766 and went home HAPPY.
+12:47 PM: Selene Gallio has had one question answered and gotten back in line.
+12:47 PM: Alisa Tager is getting help from Charles
+12:49 PM: Rita Wayword has arrived in Arsalan
+12:51 PM: Rita Wayword has borrowed Laptop 23662766 and moved to the TA Line
+12:52 PM: Alisa Tager has had one question answered and gotten back in line.
+12:52 PM: Selene Gallio is getting help from Charles
+12:57 PM: Selene Gallio has had one question answered and gotten back in line.
+12:57 PM: Rita Wayword is getting help from Charles
+01:02 PM: Rita Wayword has had one question answered and gotten back in line.
+01:02 PM: Alisa Tager is getting help from Charles
+01:07 PM: Alisa Tager has had one question answered and gotten back in line.
+01:07 PM: Selene Gallio is getting help from Charles
+01:12 PM: Selene Gallio has no more questions and will now return the laptop
+01:12 PM: Rita Wayword is getting help from Charles
+01:14 PM: Selene Gallio has returned laptop 46933604 and went home HAPPY.
+01:17 PM: Rita Wayword has had one question answered and gotten back in line.
+01:17 PM: Alisa Tager is getting help from Charles
+01:22 PM: Alisa Tager has had one question answered and gotten back in line.
+01:22 PM: Rita Wayword is getting help from Charles
+01:27 PM: Rita Wayword has had one question answered and gotten back in line.
+01:27 PM: Alisa Tager is getting help from Charles
+01:32 PM: Alisa Tager has no more questions and will now return the laptop
+01:32 PM: Rita Wayword is getting help from Charles
+01:34 PM: Alisa Tager has returned laptop 70571329 and went home HAPPY.
+01:37 PM: Rita Wayword has had one question answered and gotten back in line.
+01:37 PM: Rita Wayword is getting help from Charles
+01:42 PM: Rita Wayword has had one question answered and gotten back in line.
+01:42 PM: Rita Wayword is getting help from Charles
+01:46 PM: Cecilia Reyes has arrived in Arsalan
+01:47 PM: Rita Wayword has no more questions and will now return the laptop
+01:48 PM: Cecilia Reyes has borrowed Laptop 70571329 and moved to the TA Line
+01:48 PM: Cecilia Reyes is getting help from Charles
+01:49 PM: Sean Cassidy has arrived in Arsalan
+01:49 PM: Rita Wayword has returned laptop 23662766 and went home HAPPY.
+01:51 PM: Sean Cassidy has borrowed Laptop 23662766 and moved to the TA Line
+01:53 PM: Cecilia Reyes has had one question answered and gotten back in line.
+01:53 PM: Sean Cassidy is getting help from Charles
+01:54 PM: Alexander Summers has arrived in Arsalan
+01:56 PM: Alexander Summers has borrowed Laptop 46933604 and moved to the TA Line
+01:58 PM: Sean Cassidy has had one question answered and gotten back in line.
+01:58 PM: Cecilia Reyes is getting help from Charles
+02:03 PM: Cecilia Reyes has had one question answered and gotten back in line.
+02:03 PM: Alexander Summers is getting help from Charles
+02:08 PM: Alexander Summers has had one question answered and gotten back in line.
+02:08 PM: Sean Cassidy is getting help from Charles
+02:13 PM: Sean Cassidy has had one question answered and gotten back in line.
+02:13 PM: Cecilia Reyes is getting help from Charles
+02:18 PM: Cecilia Reyes has had one question answered and gotten back in line.
+02:18 PM: Alexander Summers is getting help from Charles
+02:23 PM: Alexander Summers has had one question answered and gotten back in line.
+02:23 PM: Sean Cassidy is getting help from Charles
+02:28 PM: Sean Cassidy has had one question answered and gotten back in line.
+02:28 PM: Cecilia Reyes is getting help from Charles
+02:33 PM: Cecilia Reyes has had one question answered and gotten back in line.
+02:33 PM: Alexander Summers is getting help from Charles
+02:34 PM: Neal Shaara has arrived in Arsalan
+02:36 PM: Neal Shaara has borrowed Laptop 28698737 and moved to the TA Line
+02:38 PM: Alexander Summers has had one question answered and gotten back in line.
+02:38 PM: Sean Cassidy is getting help from Charles
+02:43 PM: Sean Cassidy has had one question answered and gotten back in line.
+02:43 PM: Cecilia Reyes is getting help from Charles
+02:48 PM: Cecilia Reyes has had one question answered and gotten back in line.
+02:48 PM: Neal Shaara is getting help from Charles
+02:53 PM: Neal Shaara has had one question answered and gotten back in line.
+02:53 PM: Alexander Summers is getting help from Charles
+02:58 PM: Alexander Summers has no more questions and will now return the laptop
+02:58 PM: Sean Cassidy is getting help from Charles
+02:59 PM: Nicholas Gleason has arrived in Arsalan
+02:59 PM: Alexander Summers has returned laptop 46933604 and went home HAPPY.
+03:00 PM: Charles has finished Lab Hours
+03:00 PM: There are no TAs on duty. Arsalan is now closed.
+03:01 PM: Nicholas Gleason never even got a laptop and went home FRUSTRATED.
+03:01 PM: Cecilia Reyes has returned laptop 70571329 and went home HAPPY.
+03:02 PM: Neal Shaara has returned laptop 28698737 and went home FRUSTRATED.
+03:03 PM: Sean Cassidy has had one question answered but must return the laptop now and exit the lab.
+03:05 PM: Sean Cassidy has returned laptop 23662766 and went home HAPPY.
+
+Monday's Lab Summary:
+The TA Lab was open for 3 hours and 5 minutes. 9 students visited the lab.
+Out of those students, only 7 left happy.
+remaining left frustrated.
+
+Lesson Learned:  Do not procrastinate!  Start programs early!
+
+Day: Tuesday
+
+12:00 PM: Charles has begun Lab Hours
+12:49 PM: Xi'an Manh has arrived in Arsalan
+12:51 PM: Xi'an Manh has borrowed Laptop 23662766 and moved to the TA Line
+12:51 PM: Xi'an Manh is getting help from Charles
+12:52 PM: Jean-Paul Beaubier has arrived in Arsalan
+12:54 PM: Jean-Paul Beaubier has borrowed Laptop 28698737 and moved to the TA Line
+12:56 PM: Xi'an Manh has had one question answered and gotten back in line.
+12:56 PM: Jean-Paul Beaubier is getting help from Charles
+01:01 PM: Jean-Paul Beaubier has had one question answered and gotten back in line.
+01:01 PM: Xi'an Manh is getting help from Charles
+01:06 PM: Xi'an Manh has had one question answered and gotten back in line.
+01:06 PM: Jean-Paul Beaubier is getting help from Charles
+01:11 PM: Jean-Paul Beaubier has had one question answered and gotten back in line.
+01:11 PM: Xi'an Manh is getting help from Charles
+01:12 PM: Danielle Moonstar has arrived in Arsalan
+01:14 PM: Danielle Moonstar has borrowed Laptop 70571329 and moved to the TA Line
+01:16 PM: Xi'an Manh has had one question answered and gotten back in line.
+01:16 PM: Jean-Paul Beaubier is getting help from Charles
+01:21 PM: Jean-Paul Beaubier has had one question answered and gotten back in line.
+01:21 PM: Danielle Moonstar is getting help from Charles
+01:23 PM: Tandy Bowen has arrived in Arsalan
+01:25 PM: Tandy Bowen has borrowed Laptop 46933604 and moved to the TA Line
+01:26 PM: Danielle Moonstar has had one question answered and gotten back in line.
+01:26 PM: Xi'an Manh is getting help from Charles
+01:31 PM: Xi'an Manh has had one question answered and gotten back in line.
+01:31 PM: Jean-Paul Beaubier is getting help from Charles
+01:36 PM: Samuel Guthrie has arrived in Arsalan
+01:36 PM: Jean-Paul Beaubier has had one question answered and gotten back in line.
+01:36 PM: Tandy Bowen is getting help from Charles
+01:37 PM: Santo Vaccarro has arrived in Arsalan
+01:38 PM: Samuel Guthrie has borrowed Laptop 68428759 and moved to the TA Line
+01:39 PM: Santo Vaccarro has borrowed Laptop 45594438 and moved to the TA Line
+01:41 PM: James Bradley has arrived in Arsalan
+01:41 PM: Tandy Bowen has had one question answered and gotten back in line.
+01:41 PM: Danielle Moonstar is getting help from Charles
+01:43 PM: James Bradley has borrowed Laptop 42320451 and moved to the TA Line
+01:45 PM: Paige Guthrie has arrived in Arsalan
+01:46 PM: James Proudstar has arrived in Arsalan
+01:46 PM: Danielle Moonstar has had one question answered and gotten back in line.
+01:46 PM: Xi'an Manh is getting help from Charles
+01:47 PM: Paige Guthrie has borrowed Laptop 24350204 and moved to the TA Line
+01:48 PM: James Proudstar has borrowed Laptop 35073907 and moved to the TA Line
+01:51 PM: Xi'an Manh has had one question answered and gotten back in line.
+01:51 PM: Jean-Paul Beaubier is getting help from Charles
+01:56 PM: Jean-Paul Beaubier has no more questions and will now return the laptop
+01:56 PM: Samuel Guthrie is getting help from Charles
+01:58 PM: Christy Nord has arrived in Arsalan
+01:58 PM: Jean-Paul Beaubier has returned laptop 28698737 and went home HAPPY.
+02:00 PM: Max has begun Lab Hours
+02:00 PM: Christy Nord has borrowed Laptop 28698737 and moved to the TA Line
+02:00 PM: Charles has finished Lab Hours
+02:00 PM: Santo Vaccarro is getting help from Max
+02:01 PM: Samuel Guthrie has had one question answered and gotten back in line.
+02:05 PM: Santo Vaccarro has had one question answered and gotten back in line.
+02:05 PM: Tandy Bowen is getting help from Max
+02:09 PM: Julian Keller has arrived in Arsalan
+02:10 PM: Tandy Bowen has had one question answered and gotten back in line.
+02:10 PM: James Bradley is getting help from Max
+02:11 PM: Julian Keller has borrowed Laptop 47235759 and moved to the TA Line
+02:12 PM: Amara Aquilla has arrived in Arsalan
+02:14 PM: Amara Aquilla has borrowed Laptop 16994365 and moved to the TA Line
+02:15 PM: James Bradley has had one question answered and gotten back in line.
+02:15 PM: Danielle Moonstar is getting help from Max
+02:20 PM: Danielle Moonstar has no more questions and will now return the laptop
+02:20 PM: Paige Guthrie is getting help from Max
+02:22 PM: Danielle Moonstar has returned laptop 70571329 and went home HAPPY.
+02:25 PM: Paige Guthrie has had one question answered and gotten back in line.
+02:25 PM: James Proudstar is getting help from Max
+02:26 PM: Laura Kinney has arrived in Arsalan
+02:27 PM: Nathaniel Grey has arrived in Arsalan
+02:28 PM: John Proudstar has arrived in Arsalan
+02:28 PM: Laura Kinney has borrowed Laptop 70571329 and moved to the TA Line
+02:29 PM: Nathaniel Grey has borrowed Laptop 71281199 and moved to the TA Line
+02:30 PM: John Proudstar has borrowed Laptop 89594006 and moved to the TA Line
+02:30 PM: James Proudstar has had one question answered and gotten back in line.
+02:30 PM: Xi'an Manh is getting help from Max
+02:34 PM: Hisako Ichiki has arrived in Arsalan
+02:35 PM: Xi'an Manh has no more questions and will now return the laptop
+02:35 PM: Christy Nord is getting help from Max
+02:36 PM: Hisako Ichiki has borrowed Laptop 14759708 and moved to the TA Line
+02:37 PM: Xi'an Manh has returned laptop 23662766 and went home HAPPY.
+02:40 PM: Christy Nord has no more questions and will now return the laptop
+02:40 PM: Samuel Guthrie is getting help from Max
+02:41 PM: Christy Nord has returned laptop 28698737 and went home HAPPY.
+02:45 PM: Samuel Guthrie has had one question answered and gotten back in line.
+02:45 PM: Santo Vaccarro is getting help from Max
+02:50 PM: Santo Vaccarro has had one question answered and gotten back in line.
+02:50 PM: Tandy Bowen is getting help from Max
+02:55 PM: Tandy Bowen has had one question answered and gotten back in line.
+02:55 PM: Julian Keller is getting help from Max
+03:00 PM: Julian Keller has had one question answered and gotten back in line.
+03:00 PM: Amara Aquilla is getting help from Max
+03:05 PM: Amara Aquilla has had one question answered and gotten back in line.
+03:05 PM: James Bradley is getting help from Max
+03:10 PM: James Bradley has had one question answered and gotten back in line.
+03:10 PM: Paige Guthrie is getting help from Max
+03:15 PM: Paige Guthrie has had one question answered and gotten back in line.
+03:15 PM: Laura Kinney is getting help from Max
+03:20 PM: Laura Kinney has had one question answered and gotten back in line.
+03:20 PM: Nathaniel Grey is getting help from Max
+03:25 PM: Nathaniel Grey has had one question answered and gotten back in line.
+03:25 PM: John Proudstar is getting help from Max
+03:30 PM: John Proudstar has had one question answered and gotten back in line.
+03:30 PM: James Proudstar is getting help from Max
+03:35 PM: James Proudstar has had one question answered and gotten back in line.
+03:35 PM: Hisako Ichiki is getting help from Max
+03:40 PM: Hisako Ichiki has no more questions and will now return the laptop
+03:40 PM: Samuel Guthrie is getting help from Max
+03:42 PM: Hisako Ichiki has returned laptop 14759708 and went home HAPPY.
+03:45 PM: Samuel Guthrie has no more questions and will now return the laptop
+03:45 PM: Santo Vaccarro is getting help from Max
+03:47 PM: Samuel Guthrie has returned laptop 68428759 and went home HAPPY.
+03:50 PM: Santo Vaccarro has had one question answered and gotten back in line.
+03:50 PM: Tandy Bowen is getting help from Max
+03:51 PM: David Alleyne has arrived in Arsalan
+03:53 PM: David Alleyne has borrowed Laptop 68428759 and moved to the TA Line
+03:55 PM: Tandy Bowen has had one question answered and gotten back in line.
+03:55 PM: Julian Keller is getting help from Max
+04:00 PM: Max has finished Lab Hours
+04:00 PM: There are no TAs on duty. Arsalan is now closed.
+04:00 PM: Julian Keller has had one question answered but must return the laptop now and exit the lab.
+04:01 PM: Amara Aquilla has returned laptop 16994365 and went home FRUSTRATED.
+04:02 PM: James Bradley has returned laptop 42320451 and went home FRUSTRATED.
+04:03 PM: Paige Guthrie has returned laptop 24350204 and went home FRUSTRATED.
+04:04 PM: Laura Kinney has returned laptop 70571329 and went home FRUSTRATED.
+04:05 PM: Nathaniel Grey has returned laptop 71281199 and went home FRUSTRATED.
+04:06 PM: John Proudstar has returned laptop 89594006 and went home FRUSTRATED.
+04:07 PM: James Proudstar has returned laptop 35073907 and went home FRUSTRATED.
+04:08 PM: Santo Vaccarro has returned laptop 45594438 and went home FRUSTRATED.
+04:09 PM: David Alleyne has returned laptop 68428759 and went home FRUSTRATED.
+04:10 PM: Tandy Bowen has returned laptop 46933604 and went home HAPPY.
+04:11 PM: Julian Keller has returned laptop 47235759 and went home FRUSTRATED.
+
+Tuesday's' Lab Summary:
+The TA Lab was open for 4 hours and 11 minutes. 17 students visited the lab.
+Out of those students, only 7 left happy.
+remaining left frustrated.
+
+Lesson Learned:  Do not procrastinate!  Start programs early!
+
+Day: Wednesday
+
+12:00 PM: Max has begun Lab Hours
+12:02 PM: Wade Wilson has arrived in Arsalan
+12:04 PM: Wade Wilson has borrowed Laptop 47235759 and moved to the TA Line
+12:04 PM: Wade Wilson is getting help from Max
+12:09 PM: Shiro Yoshida has arrived in Arsalan
+12:09 PM: Kevin Sydney has arrived in Arsalan
+12:09 PM: Wade Wilson has had one question answered and gotten back in line.
+12:09 PM: Wade Wilson is getting help from Max
+12:11 PM: Shiro Yoshida has borrowed Laptop 46933604 and moved to the TA Line
+12:12 PM: Kevin Sydney has borrowed Laptop 68428759 and moved to the TA Line
+12:14 PM: Wade Wilson has had one question answered and gotten back in line.
+12:14 PM: Shiro Yoshida is getting help from Max
+12:19 PM: Cain Marko has arrived in Arsalan
+12:19 PM: Shiro Yoshida has had one question answered and gotten back in line.
+12:19 PM: Kevin Sydney is getting help from Max
+12:21 PM: Cain Marko has borrowed Laptop 45594438 and moved to the TA Line
+12:24 PM: Kevin Sydney has had one question answered and gotten back in line.
+12:24 PM: Wade Wilson is getting help from Max
+12:25 PM: Eric Gitter has arrived in Arsalan
+12:27 PM: Eric Gitter has borrowed Laptop 35073907 and moved to the TA Line
+12:29 PM: Nezhno Abidemi has arrived in Arsalan
+12:29 PM: Wade Wilson has had one question answered and gotten back in line.
+12:29 PM: Shiro Yoshida is getting help from Max
+12:31 PM: Nezhno Abidemi has borrowed Laptop 89594006 and moved to the TA Line
+12:34 PM: Shiro Yoshida has had one question answered and gotten back in line.
+12:34 PM: Cain Marko is getting help from Max
+12:37 PM: Carl Denti has arrived in Arsalan
+12:39 PM: Carl Denti has borrowed Laptop 71281199 and moved to the TA Line
+12:39 PM: Cain Marko has had one question answered and gotten back in line.
+12:39 PM: Kevin Sydney is getting help from Max
+12:44 PM: Kevin Sydney has had one question answered and gotten back in line.
+12:44 PM: Eric Gitter is getting help from Max
+12:48 PM: Anna Marie has arrived in Arsalan
+12:48 PM: Jonothon Starsmore has arrived in Arsalan
+12:48 PM: Jubilation Lee has arrived in Arsalan
+12:49 PM: Eric Gitter has no more questions and will now return the laptop
+12:49 PM: Wade Wilson is getting help from Max
+12:50 PM: Anna Marie has borrowed Laptop 70571329 and moved to the TA Line
+12:51 PM: Jonothon Starsmore has borrowed Laptop 24350204 and moved to the TA Line
+12:52 PM: Matsu'o Tsurayaba has arrived in Arsalan
+12:52 PM: Jubilation Lee has borrowed Laptop 42320451 and moved to the TA Line
+12:53 PM: Eric Gitter has returned laptop 35073907 and went home HAPPY.
+12:54 PM: Wade Wilson has had one question answered and gotten back in line.
+12:54 PM: Nezhno Abidemi is getting help from Max
+12:55 PM: Matsu'o Tsurayaba has borrowed Laptop 35073907 and moved to the TA Line
+12:59 PM: Nezhno Abidemi has had one question answered and gotten back in line.
+12:59 PM: Shiro Yoshida is getting help from Max
+01:02 PM: Cassandra Nova has arrived in Arsalan
+01:04 PM: Cassandra Nova has borrowed Laptop 16994365 and moved to the TA Line
+01:04 PM: Shiro Yoshida has had one question answered and gotten back in line.
+01:04 PM: Carl Denti is getting help from Max
+01:05 PM: Alison Crestmere has arrived in Arsalan
+01:07 PM: Alison Crestmere has borrowed Laptop 14759708 and moved to the TA Line
+01:09 PM: Carl Denti has had one question answered and gotten back in line.
+01:09 PM: Cain Marko is getting help from Max
+01:14 PM: Cain Marko has had one question answered and gotten back in line.
+01:14 PM: Kevin Sydney is getting help from Max
+01:19 PM: Kevin Sydney has had one question answered and gotten back in line.
+01:19 PM: Anna Marie is getting help from Max
+01:24 PM: Hope Summers has arrived in Arsalan
+01:24 PM: Anna Marie has had one question answered and gotten back in line.
+01:24 PM: Jonothon Starsmore is getting help from Max
+01:26 PM: Hope Summers has borrowed Laptop 28698737 and moved to the TA Line
+01:29 PM: Jonothon Starsmore has had one question answered and gotten back in line.
+01:29 PM: Jubilation Lee is getting help from Max
+01:30 PM: Davis Cameron has arrived in Arsalan
+01:32 PM: Davis Cameron has borrowed Laptop 23662766 and moved to the TA Line
+01:34 PM: Jubilation Lee has had one question answered and gotten back in line.
+01:34 PM: Wade Wilson is getting help from Max
+01:36 PM: Thomas Cassidy has arrived in Arsalan
+01:38 PM: Thomas Cassidy has borrowed Laptop 88812998 and moved to the TA Line
+01:39 PM: Wade Wilson has had one question answered and gotten back in line.
+01:39 PM: Matsu'o Tsurayaba is getting help from Max
+01:44 PM: Matsu'o Tsurayaba has had one question answered and gotten back in line.
+01:44 PM: Nezhno Abidemi is getting help from Max
+01:46 PM: Ororo T'Challa has arrived in Arsalan
+01:48 PM: Ororo T'Challa has borrowed Laptop 24124626 and moved to the TA Line
+01:49 PM: Nezhno Abidemi has had one question answered and gotten back in line.
+01:49 PM: Cassandra Nova is getting help from Max
+01:50 PM: Arkady Rossovich has arrived in Arsalan
+01:52 PM: Arkady Rossovich has borrowed Laptop 67237465 and moved to the TA Line
+01:54 PM: Cassandra Nova has had one question answered and gotten back in line.
+01:54 PM: Shiro Yoshida is getting help from Max
+01:59 PM: Shiro Yoshida has had one question answered and gotten back in line.
+01:59 PM: Alison Crestmere is getting help from Max
+02:00 PM: Charles has begun Lab Hours
+02:00 PM: Carl Denti is getting help from Charles
+02:04 PM: Elizabeth Braddock has arrived in Arsalan
+02:04 PM: Alison Crestmere has no more questions and will now return the laptop
+02:04 PM: Cain Marko is getting help from Max
+02:05 PM: Carl Denti has had one question answered and gotten back in line.
+02:05 PM: Kevin Sydney is getting help from Charles
+02:06 PM: Elizabeth Braddock has borrowed Laptop 49976149 and moved to the TA Line
+02:07 PM: Alison Crestmere has returned laptop 14759708 and went home HAPPY.
+02:09 PM: Cain Marko has had one question answered and gotten back in line.
+02:09 PM: Anna Marie is getting help from Max
+02:10 PM: Kevin Sydney has no more questions and will now return the laptop
+02:10 PM: Hope Summers is getting help from Charles
+02:11 PM: Kevin Sydney has returned laptop 68428759 and went home HAPPY.
+02:12 PM: James Howlett has arrived in Arsalan
+02:14 PM: James Howlett has borrowed Laptop 68428759 and moved to the TA Line
+02:14 PM: Anna Marie has had one question answered and gotten back in line.
+02:14 PM: Jonothon Starsmore is getting help from Max
+02:15 PM: Hope Summers has had one question answered and gotten back in line.
+02:15 PM: Davis Cameron is getting help from Charles
+02:19 PM: Jonothon Starsmore has had one question answered and gotten back in line.
+02:19 PM: Jubilation Lee is getting help from Max
+02:20 PM: Davis Cameron has had one question answered and gotten back in line.
+02:20 PM: Thomas Cassidy is getting help from Charles
+02:24 PM: Jubilation Lee has no more questions and will now return the laptop
+02:24 PM: Wade Wilson is getting help from Max
+02:25 PM: Thomas Cassidy has had one question answered and gotten back in line.
+02:25 PM: Matsu'o Tsurayaba is getting help from Charles
+02:26 PM: Jubilation Lee has returned laptop 42320451 and went home HAPPY.
+02:29 PM: Wade Wilson has no more questions and will now return the laptop
+02:29 PM: Ororo T'Challa is getting help from Max
+02:30 PM: Matsu'o Tsurayaba has no more questions and will now return the laptop
+02:30 PM: Nezhno Abidemi is getting help from Charles
+02:31 PM: Wade Wilson has returned laptop 47235759 and went home HAPPY.
+02:32 PM: Matsu'o Tsurayaba has returned laptop 35073907 and went home HAPPY.
+02:34 PM: Ororo T'Challa has had one question answered and gotten back in line.
+02:34 PM: Arkady Rossovich is getting help from Max
+02:35 PM: Nezhno Abidemi has had one question answered and gotten back in line.
+02:35 PM: Cassandra Nova is getting help from Charles
+02:39 PM: Arkady Rossovich has had one question answered and gotten back in line.
+02:39 PM: Shiro Yoshida is getting help from Max
+02:40 PM: Emma Frost has arrived in Arsalan
+02:40 PM: Cassandra Nova has no more questions and will now return the laptop
+02:40 PM: Carl Denti is getting help from Charles
+02:42 PM: Emma Frost has borrowed Laptop 35073907 and moved to the TA Line
+02:43 PM: Cassandra Nova has returned laptop 16994365 and went home HAPPY.
+02:44 PM: Shiro Yoshida has no more questions and will now return the laptop
+02:44 PM: Elizabeth Braddock is getting help from Max
+02:45 PM: Shiro Yoshida has returned laptop 46933604 and went home HAPPY.
+02:45 PM: Carl Denti has had one question answered and gotten back in line.
+02:45 PM: Cain Marko is getting help from Charles
+02:49 PM: Sarah Rushman has arrived in Arsalan
+02:49 PM: Elizabeth Braddock has had one question answered and gotten back in line.
+02:49 PM: James Howlett is getting help from Max
+02:50 PM: Cain Marko has no more questions and will now return the laptop
+02:50 PM: Anna Marie is getting help from Charles
+02:51 PM: Sarah Rushman has borrowed Laptop 46933604 and moved to the TA Line
+02:52 PM: Madison Jeffries has arrived in Arsalan
+02:52 PM: Cain Marko has returned laptop 45594438 and went home HAPPY.
+02:54 PM: Madison Jeffries has borrowed Laptop 45594438 and moved to the TA Line
+02:54 PM: James Howlett has had one question answered and gotten back in line.
+02:54 PM: Hope Summers is getting help from Max
+02:55 PM: Anna Marie has had one question answered and gotten back in line.
+02:55 PM: Jonothon Starsmore is getting help from Charles
+02:59 PM: Hope Summers has no more questions and will now return the laptop
+02:59 PM: Davis Cameron is getting help from Max
+03:00 PM: Hope Summers has returned laptop 28698737 and went home HAPPY.
+03:00 PM: Jonothon Starsmore has no more questions and will now return the laptop
+03:00 PM: Thomas Cassidy is getting help from Charles
+03:00 PM: Max has finished Lab Hours
+03:02 PM: Jonothon Starsmore has returned laptop 24350204 and went home HAPPY.
+03:04 PM: Davis Cameron has had one question answered and gotten back in line.
+03:05 PM: Thomas Cassidy has had one question answered and gotten back in line.
+03:05 PM: Ororo T'Challa is getting help from Charles
+03:09 PM: Amahl Farouk has arrived in Arsalan
+03:10 PM: Kenuichio Harada has arrived in Arsalan
+03:10 PM: Ororo T'Challa has had one question answered and gotten back in line.
+03:10 PM: Nezhno Abidemi is getting help from Charles
+03:11 PM: Amahl Farouk has borrowed Laptop 24350204 and moved to the TA Line
+03:12 PM: Kenuichio Harada has borrowed Laptop 28698737 and moved to the TA Line
+03:15 PM: Nezhno Abidemi has had one question answered and gotten back in line.
+03:15 PM: Arkady Rossovich is getting help from Charles
+03:20 PM: Arkady Rossovich has had one question answered and gotten back in line.
+03:20 PM: Emma Frost is getting help from Charles
+03:25 PM: Emma Frost has had one question answered and gotten back in line.
+03:25 PM: Carl Denti is getting help from Charles
+03:30 PM: Carl Denti has no more questions and will now return the laptop
+03:30 PM: Elizabeth Braddock is getting help from Charles
+03:32 PM: Carl Denti has returned laptop 71281199 and went home HAPPY.
+03:35 PM: Elizabeth Braddock has had one question answered and gotten back in line.
+03:35 PM: Sarah Rushman is getting help from Charles
+03:40 PM: Sarah Rushman has no more questions and will now return the laptop
+03:40 PM: Madison Jeffries is getting help from Charles
+03:42 PM: Sarah Rushman has returned laptop 46933604 and went home HAPPY.
+03:45 PM: Madison Jeffries has had one question answered and gotten back in line.
+03:45 PM: James Howlett is getting help from Charles
+03:50 PM: James Howlett has had one question answered and gotten back in line.
+03:50 PM: Anna Marie is getting help from Charles
+03:55 PM: Anna Marie has no more questions and will now return the laptop
+03:55 PM: Davis Cameron is getting help from Charles
+03:57 PM: Anna Marie has returned laptop 70571329 and went home HAPPY.
+04:00 PM: Charles has finished Lab Hours
+04:00 PM: There are no TAs on duty. Arsalan is now closed.
+04:00 PM: Davis Cameron has had one question answered but must return the laptop now and exit the lab.
+04:01 PM: Thomas Cassidy has returned laptop 88812998 and went home FRUSTRATED.
+04:02 PM: Ororo T'Challa has returned laptop 24124626 and went home FRUSTRATED.
+04:03 PM: Amahl Farouk has returned laptop 24350204 and went home FRUSTRATED.
+04:04 PM: Kenuichio Harada has returned laptop 28698737 and went home FRUSTRATED.
+04:05 PM: Nezhno Abidemi has returned laptop 89594006 and went home HAPPY.
+04:06 PM: Arkady Rossovich has returned laptop 67237465 and went home FRUSTRATED.
+04:07 PM: Emma Frost has returned laptop 35073907 and went home FRUSTRATED.
+04:08 PM: Elizabeth Braddock has returned laptop 49976149 and went home FRUSTRATED.
+04:09 PM: Madison Jeffries has returned laptop 45594438 and went home FRUSTRATED.
+04:10 PM: James Howlett has returned laptop 68428759 and went home FRUSTRATED.
+04:11 PM: Davis Cameron has returned laptop 23662766 and went home HAPPY.
+
+Wednesday's Lab Summary:
+The TA Lab was open for 4 hours and 11 minutes. 25 students visited the lab.
+Out of those students, only 16 left happy.
+remaining left frustrated.
+
+Lesson Learned:  Do not procrastinate!  Start programs early!
+
+************
+Program 2:
+************
+
+Day: Monday
+
+12:00 PM: Charles has begun Lab Hours
+12:05 PM: Cessily Kincaid has arrived in Arsalan
+12:07 PM: Cessily Kincaid has borrowed Laptop 23662766 and moved to the TA Line
+12:07 PM: Cessily Kincaid is getting help from Charles
+12:12 PM: Cessily Kincaid has no more questions and will now return the laptop
+12:13 PM: Raven Darkholme has arrived in Arsalan
+12:14 PM: Cessily Kincaid has returned laptop 23662766 and went home HAPPY.
+12:16 PM: Raven Darkholme has borrowed Laptop 23662766 and moved to the TA Line
+12:16 PM: Raven Darkholme is getting help from Charles
+12:21 PM: Douglas Ramsey has arrived in Arsalan
+12:21 PM: Raven Darkholme has had one question answered and gotten back in line.
+12:21 PM: Raven Darkholme is getting help from Charles
+12:23 PM: Douglas Ramsey has borrowed Laptop 68428759 and moved to the TA Line
+12:26 PM: Raven Darkholme has had one question answered and gotten back in line.
+12:26 PM: Douglas Ramsey is getting help from Charles
+12:31 PM: Douglas Ramsey has had one question answered and gotten back in line.
+12:31 PM: Raven Darkholme is getting help from Charles
+12:36 PM: Raven Darkholme has had one question answered and gotten back in line.
+12:36 PM: Douglas Ramsey is getting help from Charles
+12:41 PM: Douglas Ramsey has had one question answered and gotten back in line.
+12:41 PM: Raven Darkholme is getting help from Charles
+12:46 PM: Raven Darkholme has had one question answered and gotten back in line.
+12:46 PM: Douglas Ramsey is getting help from Charles
+12:51 PM: Douglas Ramsey has had one question answered and gotten back in line.
+12:51 PM: Raven Darkholme is getting help from Charles
+12:56 PM: Raven Darkholme has had one question answered and gotten back in line.
+12:56 PM: Douglas Ramsey is getting help from Charles
+01:01 PM: Douglas Ramsey has had one question answered and gotten back in line.
+01:01 PM: Raven Darkholme is getting help from Charles
+01:06 PM: Raven Darkholme has no more questions and will now return the laptop
+01:06 PM: Douglas Ramsey is getting help from Charles
+01:08 PM: Raven Darkholme has returned laptop 23662766 and went home HAPPY.
+01:11 PM: Douglas Ramsey has had one question answered and gotten back in line.
+01:11 PM: Douglas Ramsey is getting help from Charles
+01:15 PM: Paris Bennett has arrived in Arsalan
+01:16 PM: Douglas Ramsey has no more questions and will now return the laptop
+01:17 PM: Paris Bennett has borrowed Laptop 23662766 and moved to the TA Line
+01:17 PM: Paris Bennett is getting help from Charles
+01:18 PM: Douglas Ramsey has returned laptop 68428759 and went home HAPPY.
+01:22 PM: Remy LeBeau has arrived in Arsalan
+01:22 PM: Paris Bennett has had one question answered and gotten back in line.
+01:22 PM: Paris Bennett is getting help from Charles
+01:24 PM: Remy LeBeau has borrowed Laptop 68428759 and moved to the TA Line
+01:27 PM: Paris Bennett has had one question answered and gotten back in line.
+01:27 PM: Remy LeBeau is getting help from Charles
+01:28 PM: Karima Shapandar has arrived in Arsalan
+01:30 PM: Karima Shapandar has borrowed Laptop 45594438 and moved to the TA Line
+01:32 PM: Remy LeBeau has had one question answered and gotten back in line.
+01:32 PM: Paris Bennett is getting help from Charles
+01:35 PM: Alison Blaire has arrived in Arsalan
+01:37 PM: Alison Blaire has borrowed Laptop 49976149 and moved to the TA Line
+01:37 PM: Paris Bennett has had one question answered and gotten back in line.
+01:37 PM: Karima Shapandar is getting help from Charles
+01:42 PM: Karima Shapandar has had one question answered and gotten back in line.
+01:42 PM: Remy LeBeau is getting help from Charles
+01:47 PM: Remy LeBeau has had one question answered and gotten back in line.
+01:47 PM: Alison Blaire is getting help from Charles
+01:52 PM: Alison Blaire has had one question answered and gotten back in line.
+01:52 PM: Paris Bennett is getting help from Charles
+01:57 PM: Paris Bennett has had one question answered and gotten back in line.
+01:57 PM: Karima Shapandar is getting help from Charles
+02:02 PM: Karima Shapandar has had one question answered and gotten back in line.
+02:02 PM: Remy LeBeau is getting help from Charles
+02:07 PM: Remy LeBeau has no more questions and will now return the laptop
+02:07 PM: Alison Blaire is getting help from Charles
+02:08 PM: Remy LeBeau has returned laptop 68428759 and went home HAPPY.
+02:12 PM: Alison Blaire has had one question answered and gotten back in line.
+02:12 PM: Paris Bennett is getting help from Charles
+02:17 PM: Paris Bennett has no more questions and will now return the laptop
+02:17 PM: Karima Shapandar is getting help from Charles
+02:18 PM: Robert Kelly has arrived in Arsalan
+02:19 PM: Paris Bennett has returned laptop 23662766 and went home HAPPY.
+02:21 PM: Robert Kelly has borrowed Laptop 23662766 and moved to the TA Line
+02:22 PM: Karima Shapandar has had one question answered and gotten back in line.
+02:22 PM: Alison Blaire is getting help from Charles
+02:27 PM: Alison Blaire has had one question answered and gotten back in line.
+02:27 PM: Robert Kelly is getting help from Charles
+02:32 PM: Robert Kelly has had one question answered and gotten back in line.
+02:32 PM: Karima Shapandar is getting help from Charles
+02:37 PM: Karima Shapandar has had one question answered and gotten back in line.
+02:37 PM: Alison Blaire is getting help from Charles
+02:42 PM: Alison Blaire has no more questions and will now return the laptop
+02:42 PM: Robert Kelly is getting help from Charles
+02:44 PM: Alison Blaire has returned laptop 49976149 and went home HAPPY.
+02:47 PM: Robert Kelly has had one question answered and gotten back in line.
+02:47 PM: Karima Shapandar is getting help from Charles
+02:52 PM: Karima Shapandar has had one question answered and gotten back in line.
+02:52 PM: Robert Kelly is getting help from Charles
+02:56 PM: Rachel Summers has arrived in Arsalan
+02:57 PM: Robert Kelly has had one question answered and gotten back in line.
+02:57 PM: Karima Shapandar is getting help from Charles
+02:58 PM: Rachel Summers has borrowed Laptop 49976149 and moved to the TA Line
+03:00 PM: Charles has finished Lab Hours
+03:00 PM: There are no TAs on duty. Arsalan is now closed.
+03:01 PM: Robert Kelly has returned laptop 23662766 and went home FRUSTRATED.
+03:02 PM: Rachel Summers has returned laptop 49976149 and went home FRUSTRATED.
+03:02 PM: Karima Shapandar has no more questions and will now return the laptop
+03:04 PM: Karima Shapandar has returned laptop 45594438 and went home HAPPY.
+
+Monday's Lab Summary:
+The TA Lab was open for 3 hours and 4 minutes. 9 students visited the lab.
+Out of those students, only 7 left happy.
+remaining left frustrated.
+
+Lesson Learned:  Do not procrastinate!  Start programs early!
+
+Day: Tuesday
+
+12:00 PM: Charles has begun Lab Hours
+12:08 PM: Victor Borkowski has arrived in Arsalan
+12:10 PM: Victor Borkowski has borrowed Laptop 45594438 and moved to the TA Line
+12:10 PM: Victor Borkowski is getting help from Charles
+12:15 PM: Victor Borkowski has had one question answered and gotten back in line.
+12:15 PM: Victor Borkowski is getting help from Charles
+12:20 PM: Victor Borkowski has had one question answered and gotten back in line.
+12:20 PM: Victor Borkowski is getting help from Charles
+12:25 PM: Victor Borkowski has had one question answered and gotten back in line.
+12:25 PM: Victor Borkowski is getting help from Charles
+12:30 PM: Victor Borkowski has had one question answered and gotten back in line.
+12:30 PM: Victor Borkowski is getting help from Charles
+12:35 PM: Victor Borkowski has no more questions and will now return the laptop
+12:37 PM: Victor Borkowski has returned laptop 45594438 and went home HAPPY.
+12:39 PM: Kevin MacTaggert has arrived in Arsalan
+12:40 PM: Scott Summers has arrived in Arsalan
+12:41 PM: Kevin MacTaggert has borrowed Laptop 45594438 and moved to the TA Line
+12:41 PM: Kevin MacTaggert is getting help from Charles
+12:42 PM: Scott Summers has borrowed Laptop 49976149 and moved to the TA Line
+12:46 PM: Kevin MacTaggert has had one question answered and gotten back in line.
+12:46 PM: Scott Summers is getting help from Charles
+12:47 PM: Namor McKenzie has arrived in Arsalan
+12:49 PM: Namor McKenzie has borrowed Laptop 23662766 and moved to the TA Line
+12:51 PM: Scott Summers has no more questions and will now return the laptop
+12:51 PM: Kevin MacTaggert is getting help from Charles
+12:53 PM: Scott Summers has returned laptop 49976149 and went home HAPPY.
+12:56 PM: Kevin MacTaggert has had one question answered and gotten back in line.
+12:56 PM: Namor McKenzie is getting help from Charles
+12:59 PM: Robert Drake has arrived in Arsalan
+01:01 PM: Robert Drake has borrowed Laptop 49976149 and moved to the TA Line
+01:01 PM: Namor McKenzie has had one question answered and gotten back in line.
+01:01 PM: Kevin MacTaggert is getting help from Charles
+01:06 PM: Kevin MacTaggert has had one question answered and gotten back in line.
+01:06 PM: Robert Drake is getting help from Charles
+01:09 PM: Miranda Leevald has arrived in Arsalan
+01:11 PM: Miranda Leevald has borrowed Laptop 68428759 and moved to the TA Line
+01:11 PM: Robert Drake has had one question answered and gotten back in line.
+01:11 PM: Namor McKenzie is getting help from Charles
+01:16 PM: Namor McKenzie has had one question answered and gotten back in line.
+01:16 PM: Kevin MacTaggert is getting help from Charles
+01:21 PM: Kevin MacTaggert has no more questions and will now return the laptop
+01:21 PM: Miranda Leevald is getting help from Charles
+01:23 PM: Kevin MacTaggert has returned laptop 45594438 and went home HAPPY.
+01:26 PM: Miranda Leevald has no more questions and will now return the laptop
+01:26 PM: Robert Drake is getting help from Charles
+01:28 PM: Miranda Leevald has returned laptop 68428759 and went home HAPPY.
+01:31 PM: Robert Drake has had one question answered and gotten back in line.
+01:31 PM: Namor McKenzie is getting help from Charles
+01:36 PM: Namor McKenzie has had one question answered and gotten back in line.
+01:36 PM: Robert Drake is getting help from Charles
+01:41 PM: Robert Drake has had one question answered and gotten back in line.
+01:41 PM: Namor McKenzie is getting help from Charles
+01:46 PM: Namor McKenzie has had one question answered and gotten back in line.
+01:46 PM: Robert Drake is getting help from Charles
+01:51 PM: Robert Drake has had one question answered and gotten back in line.
+01:51 PM: Namor McKenzie is getting help from Charles
+01:56 PM: Namor McKenzie has had one question answered and gotten back in line.
+01:56 PM: Robert Drake is getting help from Charles
+01:57 PM: Megan Gwynn has arrived in Arsalan
+01:59 PM: Megan Gwynn has borrowed Laptop 68428759 and moved to the TA Line
+02:00 PM: Max has begun Lab Hours
+02:00 PM: Charles has finished Lab Hours
+02:00 PM: Namor McKenzie is getting help from Max
+02:01 PM: Robert Drake has no more questions and will now return the laptop
+02:03 PM: Robert Drake has returned laptop 49976149 and went home HAPPY.
+02:05 PM: Namor McKenzie has no more questions and will now return the laptop
+02:05 PM: Megan Gwynn is getting help from Max
+02:07 PM: Namor McKenzie has returned laptop 23662766 and went home HAPPY.
+02:10 PM: Megan Gwynn has had one question answered and gotten back in line.
+02:10 PM: Megan Gwynn is getting help from Max
+02:15 PM: Bolivar Trask has arrived in Arsalan
+02:15 PM: Megan Gwynn has had one question answered and gotten back in line.
+02:15 PM: Megan Gwynn is getting help from Max
+02:16 PM: Calvin Rankin has arrived in Arsalan
+02:17 PM: Bolivar Trask has borrowed Laptop 23662766 and moved to the TA Line
+02:18 PM: Calvin Rankin has borrowed Laptop 49976149 and moved to the TA Line
+02:20 PM: Megan Gwynn has had one question answered and gotten back in line.
+02:20 PM: Bolivar Trask is getting help from Max
+02:23 PM: David Haller has arrived in Arsalan
+02:25 PM: David Haller has borrowed Laptop 45594438 and moved to the TA Line
+02:25 PM: Bolivar Trask has had one question answered and gotten back in line.
+02:25 PM: Calvin Rankin is getting help from Max
+02:30 PM: Calvin Rankin has had one question answered and gotten back in line.
+02:30 PM: Megan Gwynn is getting help from Max
+02:35 PM: Megan Gwynn has had one question answered and gotten back in line.
+02:35 PM: David Haller is getting help from Max
+02:40 PM: David Haller has no more questions and will now return the laptop
+02:40 PM: Bolivar Trask is getting help from Max
+02:42 PM: David Haller has returned laptop 45594438 and went home HAPPY.
+02:45 PM: Bolivar Trask has had one question answered and gotten back in line.
+02:45 PM: Calvin Rankin is getting help from Max
+02:50 PM: Calvin Rankin has no more questions and will now return the laptop
+02:50 PM: Megan Gwynn is getting help from Max
+02:52 PM: Calvin Rankin has returned laptop 49976149 and went home HAPPY.
+02:54 PM: Lucas Bishop has arrived in Arsalan
+02:55 PM: Megan Gwynn has no more questions and will now return the laptop
+02:55 PM: Bolivar Trask is getting help from Max
+02:56 PM: Lucas Bishop has borrowed Laptop 49976149 and moved to the TA Line
+02:57 PM: Heather Cameron has arrived in Arsalan
+02:57 PM: Megan Gwynn has returned laptop 68428759 and went home HAPPY.
+02:59 PM: Heather Cameron has borrowed Laptop 68428759 and moved to the TA Line
+03:00 PM: Bolivar Trask has had one question answered and gotten back in line.
+03:00 PM: Lucas Bishop is getting help from Max
+03:05 PM: Lucas Bishop has had one question answered and gotten back in line.
+03:05 PM: Heather Cameron is getting help from Max
+03:10 PM: Heather Cameron has had one question answered and gotten back in line.
+03:10 PM: Bolivar Trask is getting help from Max
+03:15 PM: Bolivar Trask has had one question answered and gotten back in line.
+03:15 PM: Lucas Bishop is getting help from Max
+03:20 PM: Lucas Bishop has had one question answered and gotten back in line.
+03:20 PM: Heather Cameron is getting help from Max
+03:22 PM: Tabitha Smith has arrived in Arsalan
+03:23 PM: Jean Grey has arrived in Arsalan
+03:24 PM: Tabitha Smith has borrowed Laptop 45594438 and moved to the TA Line
+03:25 PM: Jean Grey has borrowed Laptop 35073907 and moved to the TA Line
+03:25 PM: Heather Cameron has had one question answered and gotten back in line.
+03:25 PM: Bolivar Trask is getting help from Max
+03:27 PM: Kurt Wagner has arrived in Arsalan
+03:29 PM: Kurt Wagner has borrowed Laptop 67237465 and moved to the TA Line
+03:30 PM: Bolivar Trask has no more questions and will now return the laptop
+03:30 PM: Lucas Bishop is getting help from Max
+03:31 PM: Bolivar Trask has returned laptop 23662766 and went home HAPPY.
+03:35 PM: Lucas Bishop has had one question answered and gotten back in line.
+03:35 PM: Tabitha Smith is getting help from Max
+03:40 PM: Tabitha Smith has had one question answered and gotten back in line.
+03:40 PM: Jean Grey is getting help from Max
+03:45 PM: Jean Grey has had one question answered and gotten back in line.
+03:45 PM: Heather Cameron is getting help from Max
+03:50 PM: Heather Cameron has no more questions and will now return the laptop
+03:50 PM: Kurt Wagner is getting help from Max
+03:52 PM: Warren Worthington has arrived in Arsalan
+03:52 PM: Heather Cameron has returned laptop 68428759 and went home HAPPY.
+03:54 PM: Warren Worthington has borrowed Laptop 68428759 and moved to the TA Line
+03:55 PM: Kurt Wagner has had one question answered and gotten back in line.
+03:55 PM: Lucas Bishop is getting help from Max
+04:00 PM: Max has finished Lab Hours
+04:00 PM: There are no TAs on duty. Arsalan is now closed.
+04:00 PM: Lucas Bishop has had one question answered but must return the laptop now and exit the lab.
+04:01 PM: Tabitha Smith has returned laptop 45594438 and went home FRUSTRATED.
+04:02 PM: Jean Grey has returned laptop 35073907 and went home FRUSTRATED.
+04:03 PM: Warren Worthington has returned laptop 68428759 and went home FRUSTRATED.
+04:04 PM: Kurt Wagner has returned laptop 67237465 and went home FRUSTRATED.
+04:05 PM: Lucas Bishop has returned laptop 49976149 and went home FRUSTRATED.
+
+Tuesday's' Lab Summary:
+The TA Lab was open for 4 hours and 5 minutes. 16 students visited the lab.
+Out of those students, only 11 left happy.
+remaining left frustrated.
+
+Lesson Learned:  Do not procrastinate!  Start programs early!
+
+Day: Wednesday
+
+12:00 PM: Max has begun Lab Hours
+12:06 PM: Jason Wyngarde has arrived in Arsalan
+12:08 PM: Jason Wyngarde has borrowed Laptop 49976149 and moved to the TA Line
+12:08 PM: Jason Wyngarde is getting help from Max
+12:09 PM: Shen Xorn has arrived in Arsalan
+12:10 PM: Henry McCoy has arrived in Arsalan
+12:11 PM: Shen Xorn has borrowed Laptop 67237465 and moved to the TA Line
+12:12 PM: Henry McCoy has borrowed Laptop 68428759 and moved to the TA Line
+12:13 PM: Jason Wyngarde has had one question answered and gotten back in line.
+12:13 PM: Shen Xorn is getting help from Max
+12:14 PM: Jeanne-Marie Beaubier has arrived in Arsalan
+12:16 PM: Jeanne-Marie Beaubier has borrowed Laptop 35073907 and moved to the TA Line
+12:17 PM: Illyana Rasputina has arrived in Arsalan
+12:18 PM: Shen Xorn has had one question answered and gotten back in line.
+12:18 PM: Henry McCoy is getting help from Max
+12:19 PM: Illyana Rasputina has borrowed Laptop 45594438 and moved to the TA Line
+12:23 PM: Henry McCoy has had one question answered and gotten back in line.
+12:23 PM: Jason Wyngarde is getting help from Max
+12:24 PM: Gabriel Summers has arrived in Arsalan
+12:25 PM: Nathan Summers has arrived in Arsalan
+12:26 PM: Gabriel Summers has borrowed Laptop 23662766 and moved to the TA Line
+12:27 PM: Nathan Summers has borrowed Laptop 89594006 and moved to the TA Line
+12:28 PM: Jason Wyngarde has had one question answered and gotten back in line.
+12:28 PM: Jeanne-Marie Beaubier is getting help from Max
+12:32 PM: Suzanne Chan has arrived in Arsalan
+12:33 PM: Jeanne-Marie Beaubier has had one question answered and gotten back in line.
+12:33 PM: Shen Xorn is getting help from Max
+12:34 PM: Suzanne Chan has borrowed Laptop 28698737 and moved to the TA Line
+12:38 PM: Shen Xorn has no more questions and will now return the laptop
+12:38 PM: Illyana Rasputina is getting help from Max
+12:40 PM: Shen Xorn has returned laptop 67237465 and went home HAPPY.
+12:43 PM: Illyana Rasputina has had one question answered and gotten back in line.
+12:43 PM: Henry McCoy is getting help from Max
+12:48 PM: Henry McCoy has had one question answered and gotten back in line.
+12:48 PM: Gabriel Summers is getting help from Max
+12:52 PM: Lorna Dane has arrived in Arsalan
+12:53 PM: Gabriel Summers has had one question answered and gotten back in line.
+12:53 PM: Nathan Summers is getting help from Max
+12:54 PM: Lorna Dane has borrowed Laptop 67237465 and moved to the TA Line
+12:58 PM: Nathan Summers has had one question answered and gotten back in line.
+12:58 PM: Jason Wyngarde is getting help from Max
+01:02 PM: Karl Lykos has arrived in Arsalan
+01:03 PM: Jason Wyngarde has no more questions and will now return the laptop
+01:03 PM: Jeanne-Marie Beaubier is getting help from Max
+01:04 PM: Karl Lykos has borrowed Laptop 24350204 and moved to the TA Line
+01:05 PM: Jason Wyngarde has returned laptop 49976149 and went home HAPPY.
+01:08 PM: Jeanne-Marie Beaubier has had one question answered and gotten back in line.
+01:08 PM: Suzanne Chan is getting help from Max
+01:13 PM: Yuriko Oyama has arrived in Arsalan
+01:13 PM: Suzanne Chan has had one question answered and gotten back in line.
+01:13 PM: Illyana Rasputina is getting help from Max
+01:15 PM: Yuriko Oyama has borrowed Laptop 49976149 and moved to the TA Line
+01:18 PM: Illyana Rasputina has had one question answered and gotten back in line.
+01:18 PM: Henry McCoy is getting help from Max
+01:23 PM: Henry McCoy has had one question answered and gotten back in line.
+01:23 PM: Gabriel Summers is getting help from Max
+01:28 PM: Roberto Da_Costa has arrived in Arsalan
+01:28 PM: Gabriel Summers has had one question answered and gotten back in line.
+01:28 PM: Lorna Dane is getting help from Max
+01:30 PM: Roberto Da_Costa has borrowed Laptop 24124626 and moved to the TA Line
+01:33 PM: Lorna Dane has no more questions and will now return the laptop
+01:33 PM: Nathan Summers is getting help from Max
+01:34 PM: Lorna Dane has returned laptop 67237465 and went home HAPPY.
+01:38 PM: Nathan Summers has had one question answered and gotten back in line.
+01:38 PM: Karl Lykos is getting help from Max
+01:43 PM: Karl Lykos has had one question answered and gotten back in line.
+01:43 PM: Jeanne-Marie Beaubier is getting help from Max
+01:45 PM: Madelyne Pryor has arrived in Arsalan
+01:45 PM: Armando Munoz has arrived in Arsalan
+01:47 PM: Victor Creed has arrived in Arsalan
+01:47 PM: Madelyne Pryor has borrowed Laptop 67237465 and moved to the TA Line
+01:48 PM: Noriko Ashida has arrived in Arsalan
+01:48 PM: Armando Munoz has borrowed Laptop 88812998 and moved to the TA Line
+01:48 PM: Jeanne-Marie Beaubier has had one question answered and gotten back in line.
+01:48 PM: Suzanne Chan is getting help from Max
+01:49 PM: Victor Creed has borrowed Laptop 70571329 and moved to the TA Line
+01:50 PM: Noriko Ashida has borrowed Laptop 46933604 and moved to the TA Line
+01:53 PM: Suzanne Chan has had one question answered and gotten back in line.
+01:53 PM: Yuriko Oyama is getting help from Max
+01:55 PM: Kitty Pryde has arrived in Arsalan
+01:57 PM: Kitty Pryde has borrowed Laptop 71281199 and moved to the TA Line
+01:58 PM: Yuriko Oyama has had one question answered and gotten back in line.
+01:58 PM: Illyana Rasputina is getting help from Max
+02:00 PM: Charles has begun Lab Hours
+02:00 PM: Henry McCoy is getting help from Charles
+02:03 PM: Illyana Rasputina has no more questions and will now return the laptop
+02:03 PM: Gabriel Summers is getting help from Max
+02:05 PM: Illyana Rasputina has returned laptop 45594438 and went home HAPPY.
+02:05 PM: Henry McCoy has had one question answered and gotten back in line.
+02:05 PM: Roberto Da_Costa is getting help from Charles
+02:08 PM: Nathaniel Essex has arrived in Arsalan
+02:08 PM: Gabriel Summers has had one question answered and gotten back in line.
+02:08 PM: Nathan Summers is getting help from Max
+02:10 PM: Nathaniel Essex has borrowed Laptop 45594438 and moved to the TA Line
+02:10 PM: Roberto Da_Costa has no more questions and will now return the laptop
+02:10 PM: Karl Lykos is getting help from Charles
+02:12 PM: Roberto Da_Costa has returned laptop 24124626 and went home HAPPY.
+02:13 PM: Nathan Summers has had one question answered and gotten back in line.
+02:13 PM: Madelyne Pryor is getting help from Max
+02:15 PM: Karl Lykos has had one question answered and gotten back in line.
+02:15 PM: Armando Munoz is getting help from Charles
+02:18 PM: Madelyne Pryor has had one question answered and gotten back in line.
+02:18 PM: Jeanne-Marie Beaubier is getting help from Max
+02:20 PM: Armando Munoz has had one question answered and gotten back in line.
+02:20 PM: Victor Creed is getting help from Charles
+02:23 PM: Jeanne-Marie Beaubier has had one question answered and gotten back in line.
+02:23 PM: Noriko Ashida is getting help from Max
+02:25 PM: Victor Creed has had one question answered and gotten back in line.
+02:25 PM: Suzanne Chan is getting help from Charles
+02:28 PM: Noriko Ashida has had one question answered and gotten back in line.
+02:28 PM: Kitty Pryde is getting help from Max
+02:30 PM: Suzanne Chan has had one question answered and gotten back in line.
+02:30 PM: Yuriko Oyama is getting help from Charles
+02:33 PM: Kitty Pryde has had one question answered and gotten back in line.
+02:33 PM: Henry McCoy is getting help from Max
+02:34 PM: Cameron Hodge has arrived in Arsalan
+02:35 PM: Yuriko Oyama has had one question answered and gotten back in line.
+02:35 PM: Gabriel Summers is getting help from Charles
+02:36 PM: Cameron Hodge has borrowed Laptop 24124626 and moved to the TA Line
+02:38 PM: Henry McCoy has no more questions and will now return the laptop
+02:38 PM: Nathaniel Essex is getting help from Max
+02:40 PM: Henry McCoy has returned laptop 68428759 and went home HAPPY.
+02:40 PM: Gabriel Summers has had one question answered and gotten back in line.
+02:40 PM: Nathan Summers is getting help from Charles
+02:42 PM: Regan Wyngarde has arrived in Arsalan
+02:43 PM: Nathaniel Essex has had one question answered and gotten back in line.
+02:43 PM: Karl Lykos is getting help from Max
+02:44 PM: Regan Wyngarde has borrowed Laptop 68428759 and moved to the TA Line
+02:45 PM: Nathan Summers has had one question answered and gotten back in line.
+02:45 PM: Madelyne Pryor is getting help from Charles
+02:48 PM: Karl Lykos has no more questions and will now return the laptop
+02:48 PM: Armando Munoz is getting help from Max
+02:50 PM: Karl Lykos has returned laptop 24350204 and went home HAPPY.
+02:50 PM: Madelyne Pryor has had one question answered and gotten back in line.
+02:50 PM: Jeanne-Marie Beaubier is getting help from Charles
+02:53 PM: Armando Munoz has had one question answered and gotten back in line.
+02:53 PM: Victor Creed is getting help from Max
+02:55 PM: Jeanne-Marie Beaubier has no more questions and will now return the laptop
+02:55 PM: Noriko Ashida is getting help from Charles
+02:57 PM: Jeanne-Marie Beaubier has returned laptop 35073907 and went home HAPPY.
+02:58 PM: Victor Creed has had one question answered and gotten back in line.
+02:58 PM: Suzanne Chan is getting help from Max
+02:59 PM: Joshua Foley has arrived in Arsalan
+03:00 PM: Noriko Ashida has no more questions and will now return the laptop
+03:00 PM: Kitty Pryde is getting help from Charles
+03:00 PM: Max has finished Lab Hours
+03:01 PM: William Stryker has arrived in Arsalan
+03:01 PM: Joshua Foley has borrowed Laptop 35073907 and moved to the TA Line
+03:02 PM: Noriko Ashida has returned laptop 46933604 and went home HAPPY.
+03:03 PM: Suzanne Chan has had one question answered and gotten back in line.
+03:04 PM: William Stryker has borrowed Laptop 46933604 and moved to the TA Line
+03:05 PM: Kitty Pryde has had one question answered and gotten back in line.
+03:05 PM: Yuriko Oyama is getting help from Charles
+03:09 PM: Piotr Rasputin has arrived in Arsalan
+03:10 PM: Yuriko Oyama has had one question answered and gotten back in line.
+03:10 PM: Cameron Hodge is getting help from Charles
+03:11 PM: Piotr Rasputin has borrowed Laptop 24350204 and moved to the TA Line
+03:15 PM: Cameron Hodge has had one question answered and gotten back in line.
+03:15 PM: Gabriel Summers is getting help from Charles
+03:20 PM: Gabriel Summers has no more questions and will now return the laptop
+03:20 PM: Nathaniel Essex is getting help from Charles
+03:21 PM: Gabriel Summers has returned laptop 23662766 and went home HAPPY.
+03:25 PM: Neena Thurman has arrived in Arsalan
+03:25 PM: Nathaniel Essex has no more questions and will now return the laptop
+03:25 PM: Regan Wyngarde is getting help from Charles
+03:27 PM: Neena Thurman has borrowed Laptop 23662766 and moved to the TA Line
+03:28 PM: Nathaniel Essex has returned laptop 45594438 and went home HAPPY.
+03:30 PM: Regan Wyngarde has no more questions and will now return the laptop
+03:30 PM: Nathan Summers is getting help from Charles
+03:31 PM: Regan Wyngarde has returned laptop 68428759 and went home HAPPY.
+03:35 PM: Nathan Summers has had one question answered and gotten back in line.
+03:35 PM: Madelyne Pryor is getting help from Charles
+03:40 PM: Madelyne Pryor has had one question answered and gotten back in line.
+03:40 PM: Armando Munoz is getting help from Charles
+03:45 PM: Armando Munoz has had one question answered and gotten back in line.
+03:45 PM: Victor Creed is getting help from Charles
+03:50 PM: Ruth Aldine has arrived in Arsalan
+03:50 PM: Tyrone Johnson has arrived in Arsalan
+03:50 PM: Victor Creed has no more questions and will now return the laptop
+03:50 PM: Joshua Foley is getting help from Charles
+03:52 PM: Ruth Aldine has borrowed Laptop 68428759 and moved to the TA Line
+03:53 PM: Tyrone Johnson has borrowed Laptop 45594438 and moved to the TA Line
+03:54 PM: Victor Creed has returned laptop 70571329 and went home HAPPY.
+03:55 PM: Joshua Foley has no more questions and will now return the laptop
+03:55 PM: Suzanne Chan is getting help from Charles
+03:56 PM: Joshua Foley has returned laptop 35073907 and went home HAPPY.
+04:00 PM: Charles has finished Lab Hours
+04:00 PM: There are no TAs on duty. Arsalan is now closed.
+04:00 PM: Suzanne Chan has had one question answered but must return the laptop now and exit the lab.
+04:01 PM: William Stryker has returned laptop 46933604 and went home FRUSTRATED.
+04:02 PM: Kitty Pryde has returned laptop 71281199 and went home FRUSTRATED.
+04:03 PM: Yuriko Oyama has returned laptop 49976149 and went home FRUSTRATED.
+04:04 PM: Piotr Rasputin has returned laptop 24350204 and went home FRUSTRATED.
+04:05 PM: Cameron Hodge has returned laptop 24124626 and went home FRUSTRATED.
+04:06 PM: Neena Thurman has returned laptop 23662766 and went home FRUSTRATED.
+04:07 PM: Nathan Summers has returned laptop 89594006 and went home HAPPY.
+04:08 PM: Madelyne Pryor has returned laptop 67237465 and went home FRUSTRATED.
+04:09 PM: Armando Munoz has returned laptop 88812998 and went home HAPPY.
+04:10 PM: Ruth Aldine has returned laptop 68428759 and went home FRUSTRATED.
+04:11 PM: Tyrone Johnson has returned laptop 45594438 and went home FRUSTRATED.
+04:12 PM: Suzanne Chan has returned laptop 28698737 and went home HAPPY.
+
+Wednesday's Lab Summary:
+The TA Lab was open for 4 hours and 12 minutes. 26 students visited the lab.
+Out of those students, only 17 left happy.
+remaining left frustrated.
+
+Lesson Learned:  Do not procrastinate!  Start programs early!
+
